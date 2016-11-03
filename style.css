@@ -19,9 +19,32 @@ label {
   background-color: #00b794;
   width: 600px;
   height: 100px;
+  padding-bottom: 2%;
 }
 
 img {
-  height: 100%;
+  height: 115%;
   width: 12%;
+}
+
+#deal-button {
+  width: 80px;
+  height: 40px;
+  border-radius: 10%;
+  font-size: 1em;
+
+}
+
+#hit-button {
+  width: 80px;
+  height: 40px;
+  border-radius: 10%;
+  font-size: 1em;
+}
+
+#stand-button {
+  width: 80px;
+  height: 40px;
+  border-radius: 10%;
+  font-size: 1em;
 }
